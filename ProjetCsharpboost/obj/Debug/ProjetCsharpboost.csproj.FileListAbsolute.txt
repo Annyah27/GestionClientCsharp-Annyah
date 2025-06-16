@@ -1,0 +1,12 @@
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\bin\Debug\ProjetCsharpboost.exe.config
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.csprojResolveAssemblyReference.cache
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.Form1.resources
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.Properties.Resources.resources
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.csproj.GenerateResource.Cache
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\bin\Debug\Database1.mdf
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\bin\Debug\Database1_log.ldf
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\bin\Debug\ProjetCsharpboost.exe
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\bin\Debug\ProjetCsharpboost.pdb
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.exe
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.pdb
+c:\users\pisokelyy\documents\visual studio 2012\Projects\ProjetCsharpboost\ProjetCsharpboost\obj\Debug\ProjetCsharpboost.Form2.resources
