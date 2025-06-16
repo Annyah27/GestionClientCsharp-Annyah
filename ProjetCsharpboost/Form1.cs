@@ -116,7 +116,7 @@ namespace ProjetCsharpboost
                     con.Open();
                     cmd.ExecuteNonQuery();
                 }
-                MessageBox.Show("Client modifié !");
+                MessageBox.Show("Client modifié avec succès !");
                 AfficherClients();
                 ViderChamps();
             }
